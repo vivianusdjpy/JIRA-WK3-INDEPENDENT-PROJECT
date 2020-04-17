@@ -1,13 +1,13 @@
-DATA SCIENCE PROJECT FOR MTN COTE-D’IVOIRE
+## DATA SCIENCE PROJECT FOR MTN COTE-D’IVOIRE
 
 
-Infrastructure Upgrade Strategy Analysis and Recommendation
+### Infrastructure Upgrade Strategy Analysis and Recommendation
 
 
-General Information
+### General Information
 MTN Cote d’Ivoire/Ivory Coast requires to upgrade their infrastructure for better user experience of it’s subscribers. They have shared their dataset to myself as a data scientist for analysis and advice on strategy to undertake.
 
-Data
+### Data
 
 
 Datassets below provided
@@ -19,9 +19,8 @@ CDR_description.xlsx [https://drive.google.com/open?id=1cVoNXl25IO5-_yQk97Thdeqh
 CDR 20120507 [http://bit.ly/TelecomDataset1]
 CDR 20120508 [http://bit.ly/TelecomDataset2]
 CDR 20120509 [http://bit.ly/TelecomDataset3]
-Requirement
 
-Study the provided given dataset
 
+### Requirement
 
 Recommend the strategy for upgrading the infrastructure within the given cities
